@@ -1,10 +1,10 @@
-Zeile 1
+Zeile 1 - hier kommt was dazu
 
 
 
-Zeile 5 
+Zeile 5 - hier wurde etwas hinzugefügt
 
 
 
-Zeile9
-ZEile10 
+Zeile9 - hier wurde ergänzt
+Zeile10 - Rechtschreibung angepasst
