@@ -1,10 +1,10 @@
-Zeile 1
+Zeile  1 - mit Konflikt
 
 
 
-Zeile 5 
+Zeile  5 - mit Konflikt
 
 
 
-Zeile9
-ZEile10 
+Zeile  9 - mit Konflikt
+Zeile 10 - mit Konflikt
